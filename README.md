@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/pedronaresi)
 <!--
 **pedronaresi/pedronaresi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
